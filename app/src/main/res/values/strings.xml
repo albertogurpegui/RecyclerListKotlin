@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerListKotlin</string>
+    <string name="user_nombre">Nombre</string>
+    <string name="user_apellido">Apellido</string>
+    <string name="user_direccion">Direccion</string>
+    <string name="user_annadir">Añadir</string>
+    <string name="user_remove">Eliminar</string>
+    <string name="user_update">Modificar</string>
+</resources>
